@@ -7,7 +7,7 @@ cask "moodito" do
   desc "Privacy-first macOS menu bar app that reads your mood from the webcam"
   homepage "https://github.com/georgiosnikitas/moodito"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "Moodito.app"
 
