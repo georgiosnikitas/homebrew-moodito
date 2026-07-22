@@ -1,6 +1,6 @@
 cask "moodito" do
-  version "1.10.0"
-  sha256 "d9580f11dab146e6d1cb5aab9ac93027830c7775ce68dad8e3e34d01d9f7d83c"
+  version "1.11.0"
+  sha256 "6ea4b2d4347f06f9601b060e724e366db784958a0f3310b7b4a31b55de19cac9"
 
   url "https://github.com/georgiosnikitas/moodito/releases/download/v#{version}/Moodito-v#{version}.zip"
   name "Moodito"
